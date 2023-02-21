@@ -1,0 +1,27 @@
+
+ 
+@media only screen and (max-width: 1020px){
+  
+    
+    }
+
+    @media (max-width: 1020px) {
+        .r{
+            background: green;
+             }
+            .diachi{
+                background: green;
+              }
+       .tieude
+       {
+        position: absolute;
+       margin-left: -600px;
+       }
+    }
+
+  body
+  {
+    overflow-x: hidden;
+    
+
+  }

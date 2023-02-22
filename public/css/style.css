@@ -6,6 +6,15 @@
     }
 
     @media (max-width: 1020px) {
+      .image-sp{
+        text-align: center;
+      }
+      body
+      {
+        overflow-x: hidden;
+        
+    
+      }
         .r{
             background: green;
              }
